@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/roni-analytics-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/roni-analytics-frontend/static/js/main.d479474b.js",
+    "index.html": "/roni-analytics-frontend/index.html",
+    "main.073c9b0a.css.map": "/roni-analytics-frontend/static/css/main.073c9b0a.css.map",
+    "main.d479474b.js.map": "/roni-analytics-frontend/static/js/main.d479474b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d479474b.js"
+  ]
+}
