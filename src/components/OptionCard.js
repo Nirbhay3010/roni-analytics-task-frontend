@@ -1,5 +1,5 @@
 import React from 'react'
-import { Box,Badge,Image } from '@chakra-ui/react'
+import { Box,Image } from '@chakra-ui/react'
 
 const OptionCard = (title) => {
   const option = {
